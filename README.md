@@ -1,5 +1,13 @@
-# WEDE5020-POE
-POE ASSIGNMENT
+ChangeLog
+WEDE5020 POE – Part 1
+
+Boikanyo’s Tech Repairs – Smart Solutions for Everyday Tech
+
+Student Information
+- Name: Boikanyo Mhlanga
+- Student Number: [ST10465587]
+- Module: [WEDE5020]
+
 Project Overview
 This project involves the planning and development of a website tailored for [small business]. It includes the html code and how the website is going to structured before the CSS and Javascript.
 
@@ -7,14 +15,15 @@ Website Goals and Objectives
 - Provide accessible information to users
 - Promote services and community engagement
 - Ensure responsive design across devices
-- That all users can and will be able to use the website without any hussel.
-- To make the business regconised as well run business that keeps adjusting to the times. 
+- That all users can and will be able to use the website without any hassle.
+- To make the business recognised as a well-run business that keeps adjusting to the times. 
+
 Key Features and Functionality
 - Homepage with navigation bar
 - Contact form with email integration
 - Embedded map
 -Service request form
--The website will include the about.html, contact.html, enquiry.html, index.html, services.html, stylesheet.css and a readme.md. 
+- The website will include the about.html, contact.html, enquiry.html, index.html, services.html, stylesheet.css and a readme.md. 
 
 Timeline and Milestones
 - Week 1–2: Research and planning
@@ -35,3 +44,11 @@ it includes
 - CSS and all styles
 - New improved navigation bar
 - Brighter looking website
+
+References
+Microsoft (2025) Copilot. Available at: https://www.microsoft.com/copilot (Accessed: 25 September 2025).
+Freepik. (2025). Freepik – Graphic resources for everyone. [online] Available at: https://www.freepik.com/ [Accessed 25 Sep. 2025].
+
+
+
+
