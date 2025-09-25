@@ -2,11 +2,15 @@
 <html>
 <head>
   <title>Enquiry | Boikanyo's Tech Repairs</title>
+  <meta charset="UTF-8" />
+  <meta name="viewport" content="width=device-width, initial-scale=1">
 </head>
+<link rel="stylesheet" href="stylesheet.css">
 
+<img src="images/logo 1.jpg" width="1000" height="300">
 <body>
   <h1>Enquiry</h1>
-  <div>
+  <div id="tabs-top">
   <nav>
      <a href="index.html">Home</a>
     <a href="about.html">About</a>
@@ -15,15 +19,32 @@
   </nav>
   </div>
 
-  <h2>Enquire About Our Services</h2>
+  <div id="info-box-full">
+  <img src="images/fix.jpg" alt="Technician repairing a device">
+  <h4 style="text-align: center;">Enquire About Our Services</h4>
   <form>
-    <label>Name:</label><input type="text" name="name"><br>
-    <label>Email:</label><input type="email" name="email"><br>
-    <label>Message:</label><textarea name="message"></textarea><br>
-    <input type="submit" value="Submit">
+    <div>
+      <label for="name">Name:</label>
+      <input type="text" id="name" name="name">
+    </div>
+    <div>
+      <label for="email">Email:</label>
+      <input type="email" id="email" name="email">
+    </div>
+  <p><a href="contact.html">Contact us</a> for more information.</p>
+  <p>Expect a swift response from our team, when you reach out.</p>
+      <textarea id="message" name="message"></textarea><input type="submit" value="Submit">
+    </div>
   </form>
 
-  <h3>Interested in Volunteering or Sponsoring?</h3>
-  <p>[Details about how to get involved]</p>
+  <div id="info-box-full">
+  <h4>Interested in Volunteering or Sponsoring?</h4>
+  <h4>[Details about how to get involved]</h4>
+  <p1><a href="contact.html">Contact us</a> for more information.</p1>
+  <p1>Expect a swift response from our team, when you reach out.</p1>
+  <footer>
+  </div>
+    <p>Copyright © 2025 Boikanyo Mhlanga. All rights reserved.</p>
+  </footer>
 </body>
 </html>
