@@ -39,7 +39,11 @@
     </div>
   <p><a href="contact.html">Contact us</a> for more information.</p>
   <p>Expect a swift response from our team, when you reach out.</p>
-      <textarea id="message" name="message"></textarea><input type="submit" value="Submit">
+      <textarea id="message" name="message"></textarea>
+      <div class="form-actions">
+            <button type="submit" id="submitBtn" class="button" formaction="message.html" formmethod="get" aria-label="Send message">Send Message</button>
+            <div id="formStatus" class="form-status" aria-live="polite"></div>
+            </div>
     </div>
   </form>
   <!-- End Enquiry Form Section -->
