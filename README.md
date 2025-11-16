@@ -48,7 +48,3 @@ it includes
 References
 Microsoft (2025) Copilot. Available at: https://www.microsoft.com/copilot (Accessed: 25 September 2025).
 Freepik. (2025). Freepik – Graphic resources for everyone. [online] Available at: https://www.freepik.com/ [Accessed 25 Sep. 2025].
-
-
-
-
