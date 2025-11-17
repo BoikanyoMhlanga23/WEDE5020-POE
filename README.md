@@ -1,4 +1,4 @@
-ChangeLog WEDE5020 POE – Part 1
+ChangeLog WEDE5020 POE
 
 Boikanyo’s Tech Repairs – Smart Solutions for Everyday Tech
 
@@ -53,5 +53,6 @@ Part 3
 
 
 **References & Resources**
+
 
 References Microsoft (2025) Copilot. Available at: https://www.microsoft.com/copilot (Accessed: 25 September 2025). Freepik. (2025). Freepik – Graphic resources for everyone. [online] Available at: https://www.freepik.com/ [Accessed 25 Sep. 2025].
